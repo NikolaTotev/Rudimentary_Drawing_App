@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperDraw", "SuperDraw\SuperDraw.csproj", "{898CB83B-1F5C-46B4-BF80-0AF7932511F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898CB83B-1F5C-46B4-BF80-0AF7932511F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898CB83B-1F5C-46B4-BF80-0AF7932511F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898CB83B-1F5C-46B4-BF80-0AF7932511F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898CB83B-1F5C-46B4-BF80-0AF7932511F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9524D424-DE00-4D5C-97FD-B147A366F26E}
+	EndGlobalSection
+EndGlobal
